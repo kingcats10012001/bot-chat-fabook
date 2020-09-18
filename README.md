@@ -112,13 +112,7 @@ node login.js
 ```bash
 npm start
 ``` 
-
-## Deployment
-Click this button:
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/roxtigger2003/mirai)
-[![Run on Repl.it](https://repl.it/badge/github/roxtigger2003/mirai)](https://repl.it/github/roxtigger2003/mirai)
-
-**Và cùng nhiều anh em tester đã đồng hành cùng project! Cảm ơn!**
+**Thank nhiều anh em tester đã đồng hành cùng project! Cảm ơn!**
 
 ## License
 
