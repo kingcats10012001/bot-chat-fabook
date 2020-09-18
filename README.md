@@ -1,12 +1,6 @@
 <h1 align="center">
-	<a href="#"><img src="https://i.imgur.com/lzapbcN.png" alt="Mirai"></a>
-	Mirai Bot
+	<a href="#">Phạm Trung Tá</a>
 </h1>
-<p align="center">
-	<img alt="size" src="https://img.shields.io/github/repo-size/roxtigger2003/mirai.svg?style=flat-square&label=size">
-	<img alt="code-version" src="https://img.shields.io/badge/dynamic/json?color=red&label=code%20version&prefix=v&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Froxtigger2003%2Fmirai%2Fmaster%2Fpackage.json&style=flat-square">
-	<a href="https://github.com/roxtigger2003/mirai/commits"><img alt="commits" src="https://img.shields.io/github/commit-activity/m/roxtigger2003/mirai.svg?label=commit&style=flat-square"></a>
-</p>
 
 <p align="center">
 	<a href="#Overview">Tổng Quát Về Bot</a>
@@ -18,7 +12,7 @@
 
 # Overview
 
-Project Mirai sẽ biến tài khoản Facebook cá nhân của bạn thành một con bot thông minh, nhanh nhẹn!
+Project sẽ biến tài khoản Facebook cá nhân của bạn thành một con bot thông minh, nhanh nhẹn!
 
 ## Các thay đổi
 
@@ -103,7 +97,7 @@ Project Mirai sẽ biến tài khoản Facebook cá nhân của bạn thành m�
 ## Cài đặt (Linux/macOS/WSL/Windows đã cài windows-build-tools):
 + Step 1: Clone hoặc download project, nếu máy bạn có git hãy sử dụng lệnh:
 ```bash
-git clone https://github.com/roxtigger2003/mirai
+git clone https://github.com/kingcats10012001/bot-chat-fabook.git
 ```
 + Step 2: Trỏ và bắt đầu cài đặt các gói module cần thiết cho bot cũng như file env:
 ```bash
@@ -117,35 +111,16 @@ node login.js
 + Step 4: Nhập lệnh này nếu bạn không dùng bot trên Glitch:
 ```bash
 npm start
-```
-
-## Video hướng dẫn deploy và sử dụng Mirai Bot:
-
--  Hướng dẫn dành cho Glitchs:
-
-[![Tutorial for Glitchs](https://img.youtube.com/vi/wbfAxyV4n_o/0.jpg)](https://www.youtube.com/watch?v=wbfAxyV4n_o)
-
-- Hướng dẫn dành cho Windows 10:
-
-[![Tutorial for Window 10](https://img.youtube.com/vi/NGxyB6TRX9Q/0.jpg)](https://www.youtube.com/watch?v=NGxyB6TRX9Q)
-
+``` 
 
 ## Deployment
 Click this button:
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/roxtigger2003/mirai)
 [![Run on Repl.it](https://repl.it/badge/github/roxtigger2003/mirai)](https://repl.it/github/roxtigger2003/mirai)
 
-# Author
-- **CatalizCS** (*Author and coder*) - [GitHub](https://github.com/roxtigger2003) - [Facebook](https://fb.me/Cataliz2k)
-- **SpermLord** (*Co-Author and coder*) - [GitHub](https://github.com/spermlord) - [Facebook](https://fb.me/MyNameIsSpermLord)
-
 **Và cùng nhiều anh em tester đã đồng hành cùng project! Cảm ơn!**
 
 ## License
-
-This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE](LICENSE) file 
-<details>
-	<summary></summary>
 
   ```
   Project này không liên kết với bất cứ project nào khác!!
